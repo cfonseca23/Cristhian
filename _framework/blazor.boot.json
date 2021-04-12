@@ -187,7 +187,7 @@
       "Microsoft.JSInterop.dll": "sha256-114c7Kng5wf2dRo39ix9XLd9gu\/uEVko0oqnNohR3rA=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-YlYt1zT1hT+aqQZN29dDxRiK4W\/IlVEC3wpLUTx9jtY=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
-      "cf-Perfil.dll": "sha256-rKwMTQMtU0Ky1gLpFXEOpNwnKc5cvyKezmtiT0ChfgQ="
+      "cf-Perfil.dll": "sha256-N9gZtmZNFG4kHWMWqfM5N+XwF9WiMRxwGZp76TfDpQs="
     },
     "lazyAssembly": null,
     "pdb": null,
