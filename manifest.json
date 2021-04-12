@@ -1,13 +1,13 @@
 {
-  "name": "cf-Perfil",
-  "short_name": "cf-Perfil",
+  "name": "Perfil-CF",
+  "short_name": "Perfil-CF",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "icon-512-programming.png",
       "type": "image/png",
       "sizes": "512x512"
     }
