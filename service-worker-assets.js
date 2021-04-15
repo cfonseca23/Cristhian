@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
+      "hash": "sha256-L0ApgkZaJxawVcfuyph13NN5HgcJsR65gJwSISTwLvU=",
       "url": "css\/app.css"
     },
     {
@@ -65,11 +65,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-GsJasD4417uNxUAtGu8r72LKACqAPmremtxnmJt7vz0=",
+      "hash": "sha256-sht4YIkJq25Jqs+K3EWoZdAquhAYV3UXup3pMp8FCBc=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-JADoZalu4kf82qqLtb8bR\/qRsSVO5yq4WPbxqecgIzA=",
+      "hash": "sha256-zbtHuJg9Lx2JR5XOazX\/eBPRpCnINEAfuEb0j9H6VlY=",
       "url": "manifest.json"
     },
     {
@@ -829,11 +829,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-2e6Wr9q8hysgtW3cuJedi8BaULAWSE4lt4OQtwwG4xc=",
+      "hash": "sha256-\/k6Xi78qN6P21Tp1mRL5a5sOWbmKFo73XpYAi0o0bOQ=",
       "url": "_framework\/cf-Perfil.dll"
     },
     {
-      "hash": "sha256-dARKUMeu9D2SjgD5Walr3o1a7680NfLVtIaO4U8Miss=",
+      "hash": "sha256-fWURTvfAX93SXuzXiAQLT7CZk7WxT77qR3HblFicsrM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -841,5 +841,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "xiw7klx\/"
+  "version": "R7p7\/sWc"
 };

@@ -1,6 +1,6 @@
 {
-  "name": "Perfil-CF",
-  "short_name": "Perfil-CF",
+  "name": "CF-WebApp",
+  "short_name": "CF-WebApp",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
