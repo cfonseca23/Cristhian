@@ -1,0 +1,638 @@
+﻿[
+  {
+    "nombres": "LAUREANO AUGUSTO",
+    "apellidos": "ACUÑA DIAZ",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "ANA PAOLA",
+    "apellidos": "AGUDELO GARCIA",
+    "partido": "MIRA",
+    "departamento_de_nacimiento": "TOLIMA"
+  },
+  {
+    "nombres": "IVAN DARIO",
+    "apellidos": "AGUDELO ZAPATA",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "RICHARD ALFONSO",
+    "apellidos": "AGUILAR VILLA",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "SUCRE"
+  },
+  {
+    "nombres": "MIGUEL",
+    "apellidos": "AMIN ESCAF",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "FABIO RAUL",
+    "apellidos": "AMIN SALEME",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "ESPERANZA",
+    "apellidos": "ANDRADE DE OSSO",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "HUILA"
+  },
+  {
+    "nombres": "FERNANDO NICOLAS",
+    "apellidos": "ARAUJO RUMIE",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "BOLIVAR"
+  },
+  {
+    "nombres": "WILSON NEBER",
+    "apellidos": "ARIAS",
+    "partido": "POLO DEMOCRATICO",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "AIDA YOLANDA",
+    "apellidos": "AVELLA ESQUIVEL",
+    "partido": "COALICION DECENTES",
+    "departamento_de_nacimiento": "BOYACA"
+  },
+  {
+    "nombres": "DAVID ALEJANDRO",
+    "apellidos": "BARGUIL ASsiS",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "ROY LEONARDO",
+    "apellidos": "BARRERAS MONTEALEGRE",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "MIGUEL ANGEL",
+    "apellidos": "BARRETO CASTILLO",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "BOYACA"
+  },
+  {
+    "nombres": "JULIAN",
+    "apellidos": "BEDOYA PULGARIN",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "ARMANDO ALBERTO",
+    "apellidos": "BENEDETTI VILLANEDA",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "JOHN MOISES",
+    "apellidos": "BESAILE FAYAD",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "NADYA GEORGETTE",
+    "apellidos": "BLEL SCAFF",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "BOLIVAR"
+  },
+  {
+    "nombres": "GUSTAVO",
+    "apellidos": "BOLIVAR MORENO",
+    "partido": "COALICION DECENTES",
+    "departamento_de_nacimiento": "CUNDINAMARCA"
+  },
+  {
+    "nombres": "MARIA FERNANDA",
+    "apellidos": "CABAL MOLINA",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "ANA MARIA",
+    "apellidos": "CASTAÑEDA GOMEZ",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "SUCRE"
+  },
+  {
+    "nombres": "MARIO ALBERTO",
+    "apellidos": "CASTAÑO PEREZ",
+    "partido": "PARTIDO LIBERAL",
+    "departamento_de_nacimiento": "CALDAS"
+  },
+  {
+    "nombres": "EMMA CLAUDIA",
+    "apellidos": "CASTELLANOS",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "BOGOTA DC"
+  },
+  {
+    "nombres": "JESUS ALBERTO",
+    "apellidos": "CASTILLA SALAZAR",
+    "partido": "POLO DEMOCRATICO",
+    "departamento_de_nacimiento": "NORTE DE SANTANDER"
+  },
+  {
+    "nombres": "FABIAN GERARDO",
+    "apellidos": "CASTILLO SUAREZ",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "MAGDALENA"
+  },
+  {
+    "nombres": "JUAN LUIS",
+    "apellidos": "CASTRO CORDOBA",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "IVAN",
+    "apellidos": "CEPEDA CASTRO",
+    "partido": "POLO DEMOCRATICO",
+    "departamento_de_nacimiento": "BOGOTA DC"
+  },
+  {
+    "nombres": "EFRAIN JOSE",
+    "apellidos": "CEPEDA SARABIA",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "RUBY HELENA",
+    "apellidos": "CHAGUI SPATH",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "ARTURO",
+    "apellidos": "CHAR CHALJUB",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "ALEJANDRO",
+    "apellidos": "CORRALES ESCOBAR",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "RISARALDA"
+  },
+  {
+    "nombres": "ANDRES",
+    "apellidos": "CRISTO BUSTOS",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "NORTE DE SANTANDER"
+  },
+  {
+    "nombres": "EDGAR JESUS",
+    "apellidos": "DIAZ CONTRERAS",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "NORTE DE SANTANDER"
+  },
+  {
+    "nombres": "LUIS EDUARDO",
+    "apellidos": "DIAZGRANADOS TORRES",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "JAIME ENRIQUE",
+    "apellidos": "DURAN BARRERA",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "SANTANDER"
+  },
+  {
+    "nombres": "CARLOS EDUARDO",
+    "apellidos": "ENRIQUEZ MAYA",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "NARIÑO"
+  },
+  {
+    "nombres": "LAURA ESTER",
+    "apellidos": "FORTICH SANCHEZ",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "MAGDALENA"
+  },
+  {
+    "nombres": "JULIAN",
+    "apellidos": "GALLO CUBILLOS",
+    "partido": "FARC",
+    "departamento_de_nacimiento": "BOGOTA DC"
+  },
+  {
+    "nombres": "DAIRA DE JESUS",
+    "apellidos": "GALVIS MENDEZ",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "BOLIVAR"
+  },
+  {
+    "nombres": "NORA MARIA",
+    "apellidos": "GARCIA BURGOS",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "JUAN CARLOS",
+    "apellidos": "GARCIA GOMEZ",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "NORTE DE SANTANDER"
+  },
+  {
+    "nombres": "GUILLERMO",
+    "apellidos": "GARCIA REALPE",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "NARIÑO"
+  },
+  {
+    "nombres": "LIDIO ARTURO",
+    "apellidos": "GARCIA TURBAY",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "BOLIVAR"
+  },
+  {
+    "nombres": "ANDRES FELIPE",
+    "apellidos": "GARCIA ZUCCARDI",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "BOLIVAR"
+  },
+  {
+    "nombres": "JOSE OBDULIO",
+    "apellidos": "GAVIRIA VELEZ",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "JOSE ALFREDO",
+    "apellidos": "GNECCO ZULETA",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "CESAR"
+  },
+  {
+    "nombres": "MAURICIO",
+    "apellidos": "GOMEZ AMIN",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "JUAN DIEGO",
+    "apellidos": "GOMEZ JIMENEZ",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "AMANDA ROCIO",
+    "apellidos": "GONZALEZ RODRIGUEZ",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "CASANARE"
+  },
+  {
+    "nombres": "MARIA DEL ROSARIO",
+    "apellidos": "GUERRA DE LA ESPRIELLA",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "SUCRE"
+  },
+  {
+    "nombres": "JORGE ELIECER",
+    "apellidos": "GUEVARA",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "PUTUMAYO"
+  },
+  {
+    "nombres": "CARLOS EDUARDO",
+    "apellidos": "GUEVARA VILLABON",
+    "partido": "MIRA",
+    "departamento_de_nacimiento": "BOGOTA DC"
+  },
+  {
+    "nombres": "HONORIO MIGUEL",
+    "apellidos": "HENRIQUEZ PINEDO",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "MAGDALENA"
+  },
+  {
+    "nombres": "PAOLA ANDREA",
+    "apellidos": "HOLGUIN MORENO",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "GERMAN DARIO",
+    "apellidos": "HOYOS GIRALDO",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "CARLOS ABRAHAM",
+    "apellidos": "JIMENEZ LOPEZ",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "RODRIGO",
+    "apellidos": "LARA RESTREPO",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "HUILA"
+  },
+  {
+    "nombres": "JUAN FELIPE",
+    "apellidos": "LEMOS URIBE",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "CUBILLOS AYDEE",
+    "apellidos": "LIZARAZO",
+    "partido": "MIRA",
+    "departamento_de_nacimiento": "QUINDIO"
+  },
+  {
+    "nombres": "DIDIER",
+    "apellidos": "LOBO CHINCHILLA",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "CESAR"
+  },
+  {
+    "nombres": "CRISELDA",
+    "apellidos": "LOBO SILVA",
+    "partido": "FARC",
+    "departamento_de_nacimiento": "SANTANDER"
+  },
+  {
+    "nombres": "JORGE EDUARDO",
+    "apellidos": "LONDOÑO ULLOA",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "ALEXANDER",
+    "apellidos": "LOPEZ MAYA",
+    "partido": "POLO DEMOCRATICO",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "JOSE RITTER",
+    "apellidos": "LOPEZ PEÑA",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "ANGELICA LISBETH",
+    "apellidos": "LOZANO CORREA",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "BOGOTA DC"
+  },
+  {
+    "nombres": "ERNESTO",
+    "apellidos": "MACIAS TOVAR",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "HUILA"
+  },
+  {
+    "nombres": "MARITZA",
+    "apellidos": "MARTINEZ ARISTIZABAL",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "META"
+  },
+  {
+    "nombres": "LUIS IVAN",
+    "apellidos": "MARULANDA GOMEZ",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "RISARALDA"
+  },
+  {
+    "nombres": "CARLOS MANUEL",
+    "apellidos": "MEISEL VERGARA",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "CARLOS FELIPE",
+    "apellidos": "MEJIA MEJIA",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "CALDAS"
+  },
+  {
+    "nombres": "JUAN SAMY",
+    "apellidos": "MERHEG MARUN",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "RISARALDA"
+  },
+  {
+    "nombres": "CARLOS FERNANDO",
+    "apellidos": "MOTOA SOLARTE",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "JOSE DAVID",
+    "apellidos": "NAME CARDOZO",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "IVAN LEONIDAS",
+    "apellidos": "NAME VASQUEZ",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "TEMISTOCLES",
+    "apellidos": "ORTEGA NARVAEZ",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "CAUCA"
+  },
+  {
+    "nombres": "SANDRA LILIANA",
+    "apellidos": "ORTIZ NOVA",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "BOYACA"
+  },
+  {
+    "nombres": "EDUARDO EMILIO",
+    "apellidos": "PACHECO CUELLO",
+    "partido": "COLOMBIA JUSTA LIBRE",
+    "departamento_de_nacimiento": "MAGDALENA"
+  },
+  {
+    "nombres": "EDGAR ENRIQUE",
+    "apellidos": "PALACIO MIZRAHI",
+    "partido": "COLOMBIA JUSTA LIBRE",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "MANUEL BITERVO",
+    "apellidos": "PALCHUCAN CHINGAL",
+    "partido": "AICO",
+    "departamento_de_nacimiento": "NARIÑO"
+  },
+  {
+    "nombres": "MYRIAM ALICIA",
+    "apellidos": "PAREDES AGUIRRE",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "NARIÑO"
+  },
+  {
+    "nombres": "JOSE LUIS",
+    "apellidos": "PEREZ OYUELA",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "NICOLAS",
+    "apellidos": "PEREZ VASQUEZ",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "PETRO URREGO",
+    "apellidos": "GUSTAVO FRANCISCO",
+    "partido": "COLOMBIA HUMANA",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "MIGUEL ANGEL",
+    "apellidos": "PINTO HERNANDEZ",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "SANTANDER"
+  },
+  {
+    "nombres": "JOSE AULO",
+    "apellidos": "POLO NARVAEZ",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "PASTO"
+  },
+  {
+    "nombres": "EDUARDO ENRIQUE",
+    "apellidos": "PULGAR DAZA",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "ATLANTICO"
+  },
+  {
+    "nombres": "CIRO ALEJANDRO",
+    "apellidos": "RAMIREZ CORTES",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "BOYACA"
+  },
+  {
+    "nombres": "JORGE ENRIQUE",
+    "apellidos": "ROBLEDO CASTILLO",
+    "partido": "POLO DEMOCRATICO",
+    "departamento_de_nacimiento": "TOLIMA"
+  },
+  {
+    "nombres": "JOHN MILTON",
+    "apellidos": "RODRIGUEZ GONZALEZ",
+    "partido": "COLOMBIA JUSTA LIBRE",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "RENGIFO ROOSVELT",
+    "apellidos": "RODRIGUEZ",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "ANTONIO ERESMID",
+    "apellidos": "SANGUINO PAES",
+    "partido": "ALIANZA VERDE",
+    "departamento_de_nacimiento": "NORTE DE SANTANDER"
+  },
+  {
+    "nombres": "HORACIO JOSE",
+    "apellidos": "SERPA MONCADA",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "SANTANDER"
+  },
+  {
+    "nombres": "VICTORIA SANDINO",
+    "apellidos": "SIMANCA HERRERA",
+    "partido": "FARC",
+    "departamento_de_nacimiento": "CORDOBA"
+  },
+  {
+    "nombres": "JOHN HAROLD",
+    "apellidos": "SUAREZ VARGAS",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "JONATAN",
+    "apellidos": "TAMAYO PEREZ",
+    "partido": "AIS",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "PABLO CATATUMBO",
+    "apellidos": "TORRES VICTORIA",
+    "partido": "FARC",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "CARLOS ANDRES",
+    "apellidos": "TRUJILLO GONZALEZ",
+    "partido": "CONSERVADOR",
+    "departamento_de_nacimiento": "ANTIOQUIA"
+  },
+  {
+    "nombres": "SANTIAGO",
+    "apellidos": "VALENCIA GONZALEZ",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "BOGOTA D.C."
+  },
+  {
+    "nombres": "PALOMA SUSANA",
+    "apellidos": "VALENCIA LASERNA",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "CAUCA"
+  },
+  {
+    "nombres": "FELICIANO",
+    "apellidos": "VALENCIA MEDINA",
+    "partido": "MAIS",
+    "departamento_de_nacimiento": "CAUCA"
+  },
+  {
+    "nombres": "GERMAN",
+    "apellidos": "VARON COTRINO",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "BOGOTA DC"
+  },
+  {
+    "nombres": "LUIS FERNANDO",
+    "apellidos": "VELASCO CHAVES",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "CAUCA"
+  },
+  {
+    "nombres": "GABRIEL JAIME",
+    "apellidos": "VELASCO OCAMPO",
+    "partido": "CENTRO DEMOCRATICO",
+    "departamento_de_nacimiento": "VALLE DEL CAUCA"
+  },
+  {
+    "nombres": "RODRIGO",
+    "apellidos": "VILLALBA MOSQUERA",
+    "partido": "LIBERAL",
+    "departamento_de_nacimiento": "HUILA"
+  },
+  {
+    "nombres": "ANTONIO LUIS",
+    "apellidos": "ZABARAIN GUEVARA",
+    "partido": "CAMBIO RADICAL",
+    "departamento_de_nacimiento": "MAGDALENA"
+  },
+  {
+    "nombres": "BERNER LEON",
+    "apellidos": "ZAMBRANO ERASO",
+    "partido": "PARTIDO DE LA U",
+    "departamento_de_nacimiento": "NARIÑO"
+  },
+  {
+    "nombres": "ISRAEL ALBERTO",
+    "apellidos": "ZUÑIGA IRIARTE",
+    "partido": "FARC",
+    "departamento_de_nacimiento": "ATLANTICO"
+  }
+]
