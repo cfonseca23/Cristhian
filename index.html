@@ -1,67 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>PoliticaVisibleCo</title>
+    <title>CF.CO.Politica</title>
     <base href="/" />
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
-    <link href="manifest.json" rel="manifest" />
-    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
-    <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
-    <link href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" rel="stylesheet">
+    <link href="CF.CO.Politica.styles.css" rel="stylesheet" />
 </head>
 
 <body>
-    <div id="app">
-
-        <style>
-            @keyframes slide {
-                0% {
-                    transform: translateX(-25%);
-                }
-
-                100% {
-                    transform: translateX(25%);
-                }
-            }
-
-            .mud-wasm {
-                animation: slide 2s ease-in-out infinite alternate;
-                background-image: linear-gradient(50deg,#600207 50%,#003362 50%);
-                bottom: 0;
-                left: -50%;
-                opacity: .9;
-                position: fixed;
-                right: -50%;
-                top: 0;
-                z-index: -1
-            }
-
-            .mud-wasm-cont {
-                left: 50%;
-                padding: 10vmin;
-                position: fixed;
-                text-align: center;
-                top: 50%;
-                transform: translate(-50%,-50%)
-            }
-        </style>
-
-        <div style="height:100%; width:100%; margin:0; position:fixed;">
-            <div class="mud-wasm"></div>
-            <div class="mud-wasm" style="animation-direction:alternate-reverse;animation-duration:4s;"></div>
-            <div class="mud-wasm" style="animation-duration:5s;"></div>
-            <div class="mud-wasm-cont ">
-                <div style="width:100%; text-align:center; color:white; font-family: 'Courier New', Courier, monospace;">
-                    <img src="icon-512.png" style="height: 50px;" alt="logo">
-                    <h1>Politica Visible</h1>
-                </div>
-            </div>
-        </div>
-    </div>
+    <div id="app">Loading...</div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
@@ -69,8 +20,6 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script src="_content/MudBlazor/MudBlazor.min.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js');</script>
 </body>
 
 </html>
