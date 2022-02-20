@@ -45,15 +45,15 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-wyow2VeYLdXV3t48Nf23\/12us2C+Jrqdh1D8NCYY8zk=",
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
+      "hash": "sha256-LFS9dUUGR2ks9KFpSzYUljpAJGGCfhNWOftl9RuKtjw=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-2iRGxPRH4Dq3Ld8p8Kd5Ygr+pvPhPIdpMB3NZ8PyDTQ=",
+      "hash": "sha256-PbhGupy4gQNpqs7Y8vpYJA+d6BO4jbeiTj5yg7xAHns=",
       "url": "index.html"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-ejSewZqGcD8uXqImoDIQsEvhY3E\/ZFXfN9KRo2PHfUo=",
+      "hash": "sha256-7ztk6sbaYuFDzhJ7NzDwsC7gAGNLiDBk2IvfwUYO\/Fg=",
       "url": "_framework\/PoliticaVisibleCo.dll"
     },
     {
@@ -333,7 +333,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-sP3IpercsV7efGu1t+qicGZ6fhtEwqHgsdTu93qkI+g=",
+      "hash": "sha256-+qbqBQFKL9VOnHZKatoOCPVqLO2VIs50uADYnN2u3gE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -341,5 +341,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "tTsjm8GF"
+  "version": "oE2k3VTr"
 };
