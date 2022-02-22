@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CF.Politica.CO.dll": "sha256-VwZr56BieVLw+DG4+p5WkdRb\/+icSQ+tYd+2u4EepDQ=",
+      "CF.Politica.CO.dll": "sha256-MBBC3KPXY2Ru2zii9xnH38MiE0SpKlol0uglAA\/RvJY=",
       "Microsoft.AspNetCore.Components.dll": "sha256-eD8rgfrAUmnsK+z0OyDK5GDlvhJcaPT\/jXEhCYrrDQc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-LqeJ8RNmZT6bfAdjq0tuKRjrzgBcMTplqxln2KXiQbM=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-tnq8SNBGoct\/gdjs5XmG5CLXg8bkqDutn\/bpBLGTjec=",

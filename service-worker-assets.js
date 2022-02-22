@@ -61,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-w8cqma6bWau71pTWvjak8v+r\/5nFZ+s8xn4gdbr8hjc=",
+      "hash": "sha256-LhVxBC3A2SENF1vIiQ\/jQ1fXwJBuNSYqSoz+BgpF2hM=",
       "url": "index.html"
     },
     {
@@ -105,11 +105,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-TyrLMqK3xb4cwq3etN4qnpOEB407LuJbSyshyWrVaSM=",
+      "hash": "sha256-\/+H2pXRibRRHeRDSa1oQ\/H2ziSlP2Y+23YRYiiDpEMg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-VwZr56BieVLw+DG4+p5WkdRb\/+icSQ+tYd+2u4EepDQ=",
+      "hash": "sha256-MBBC3KPXY2Ru2zii9xnH38MiE0SpKlol0uglAA\/RvJY=",
       "url": "_framework\/CF.Politica.CO.dll"
     },
     {
@@ -305,5 +305,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "mBi4PyM8"
+  "version": "XX0oeGgi"
 };
